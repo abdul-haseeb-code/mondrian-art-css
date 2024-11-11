@@ -17,4 +17,4 @@ This repository contains a simple Mondrian-inspired artwork created using HTML a
 
 1. Clone this repository:
    ```bash
-   git clone https://github.com/your-username/mondrian-art-css.git
+   git clone https://github.com/abdul-haseeb-code/mondrian-art-css.git
